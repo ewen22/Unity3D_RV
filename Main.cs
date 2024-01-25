@@ -1,10 +1,10 @@
-using Sysrem
+using System
 
 public class Helloworld
 {
   public static void  Main(string[] args)
   {
-    int jsp = -
+    int jsp = 5
     Console.WriteLine (jsp);
   }
 }
