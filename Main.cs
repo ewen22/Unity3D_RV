@@ -1,10 +1,10 @@
-using System
+using System;
 
-public class Helloworld
+public class HelloWorld
 {
-  public static void  Main(string[] args)
-  {
-    int jsp = 5
-    Console.WriteLine (jsp);
-  }
+    public static void Main(string[] args)
+    {
+        string jsp = "test";
+        Console.WriteLine (jsp);
+    }
 }
