@@ -1,0 +1,10 @@
+using Sysrem
+
+public class Helloworld
+{
+  public static void  Main(string[] args)
+  {
+    int jsp = -
+    Console.WriteLine (jsp);
+  }
+}
